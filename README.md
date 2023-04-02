@@ -1,5 +1,5 @@
 # multi_language
-## // สร้างเจค yarn
+// สร้างเจค yarn
 yarn create expo-app multi_language
 cd multi_language
 yarn start
